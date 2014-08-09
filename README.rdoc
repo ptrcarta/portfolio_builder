@@ -1,0 +1,11 @@
+== README
+
+Application dependencies:
+
+# Ruby version
+- 2.1.1
+
+# System dependencies
+- A javascript runtime, I typically use nodejs.
+- Standard Rails Dependencies
+- RVM
