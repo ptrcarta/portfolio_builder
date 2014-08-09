@@ -38,6 +38,13 @@ gem 'ejs'
 #use paperclip for simple file management
 gem 'paperclip', '~> 4.1'
 
+#use twitter bootstrap because I'm not a designer and god help me if I dared
+#try to do it from scratch.
+gem 'bootstrap-sass', '~> 3.2.0'
+
+#use autoprefixer for similar reasons
+gem 'autoprefixer-rails'
+
 # Use Capistrano for deployment
 group :development do
   gem 'capistrano-rails', require: false
